@@ -193,6 +193,9 @@
     .firstsection1 iframe{
         width: 350px;
     }
+     .firstsection{
+        height: 100vh;
+    }
     .secondHalf img{
         width: 300px;
     }
